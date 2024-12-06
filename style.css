@@ -1,5 +1,5 @@
 body {
-            background-image: https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY-1200-80.jpg; /* Correct syntax */
+            background-image: url('https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY-1200-80.jpg'); /* Correct syntax */
             background-size: cover; /* Ensure the image covers the entire background */
             background-repeat: no-repeat; /* Prevent tiling */
             background-position: center; /* Center the image */
