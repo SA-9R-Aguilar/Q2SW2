@@ -28,10 +28,6 @@ body {
 
 }
 
-img {
-            text-align: center;
-}
-
 h1 {
             animation: tada;
             animation-duration: 4s;
